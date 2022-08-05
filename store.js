@@ -25,7 +25,7 @@ window.onlineShop = {
             num:1,/*数量（必填）*/
             level:5,/*推荐指数1-5（选填）*/
             vip:7,/*会员等级0-9（选填）*/
-	    unique:'5816749',/*识别码*/
+	    unique:'F50B9DC6EFFC2C48942FA80179B6DC9C21F0',/*识别码*/
 	    pack:[],/*打包*/
         },
         {
@@ -237,7 +237,7 @@ window.onlineShop = {
             vip:0,/*会员等级0-9（选填）*/
 	    unique:false,/*识别码*/
 	    info:'祈福灯*1、木头宝箱*1',
-	    pack:[{name:'qifudeng',num:1},{name:'baoxiang_1',num:1}],/*打包*/
+	    pack:[{id:'qifudeng',num:1},{id:'baoxiang_1',num:1}],/*打包*/
 	    ext:'1',
         },
     ],
