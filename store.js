@@ -1,6 +1,6 @@
 'use strict';
 window.onlineShop = {
-    version:1.359,
+    version:1.3591,
     /*主要货币
     银两-coin
     元宝-coupons
