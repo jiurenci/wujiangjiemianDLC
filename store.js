@@ -233,7 +233,8 @@ window.onlineShop = {
             currency:'coupons',/*结算货币（必填）*/
             price:1,/*售价（必填）*/
             num:1,/*数量（必填）*/
-            level:5,/*推荐指数1-5（选填）*/
+            max:3,/*打开最多出现多少个道具*/
+	    level:5,/*推荐指数1-5（选填）*/
             vip:0,/*会员等级0-9（选填）*/
 	    unique:false,/*识别码*/
             title:'七夕礼包',
@@ -248,6 +249,7 @@ window.onlineShop = {
             currency:'coupons',/*结算货币（必填）*/
             price:1,/*售价（必填）*/
             num:1,/*数量（必填）*/
+            max:3,/*打开最多出现多少个道具*/
             level:5,/*推荐指数1-5（选填）*/
             vip:0,/*会员等级0-9（选填）*/
 	    unique:false,/*识别码*/
