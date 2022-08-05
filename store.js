@@ -129,7 +129,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251940,/*商品id（唯一）*/
+            id:202208051427,/*商品id（唯一）*/
             name:'card_refresh',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coupons',/*结算货币（必填）*/
