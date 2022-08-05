@@ -242,7 +242,7 @@ window.onlineShop = {
 	    ext:'1',
         },
 	    {
-            id:202208051828,/*商品id（唯一）*/
+            id:202208051839,/*商品id（唯一）*/
             name:'测试礼包',/*武将id（必填）*/
             type:'批量',/*商品类型（必填）*/
             currency:'coupons',/*结算货币（必填）*/
@@ -251,7 +251,7 @@ window.onlineShop = {
             level:5,/*推荐指数1-5（选填）*/
             vip:0,/*会员等级0-9（选填）*/
 	    unique:false,/*识别码*/
-            title:'随机礼包',
+            title:'开启礼盒',
 	    info:'元宝*999、刘备*1、孙尚香*1、寻宝令*10、招募令、10、烽火连天',
 	    pack:[{id:'coupons',num:999,random:0.2},{id:'xunbaoling',num:10,random:0.1},{id:'zhaomuling',num:10},{id:'liubei',random:0.5},{id:'mayunlu'},{id:'xushao',num:'烽火连天.jpg'}],/*打包*/
 	    ext:'1',
