@@ -17,8 +17,8 @@ window.onlineShop = {
     */
     players:[/*武将栏目*/
         {
-            id:202207251930,/*商品id（唯一）*/
-            name:'shen_guojia',/*武将id（必填）*/
+            id:202208051524,/*商品id（唯一）*/
+            name:'shen_caopi',/*武将id（必填）*/
             type:'武将',/*商品类型（必填）*/
             currency:'extra_fragment',/*结算货币（必填）*/
             price:12,/*售价（必填）*/
@@ -29,7 +29,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251932,/*商品id（唯一）*/
+            id:202208051525,/*商品id（唯一）*/
             name:'xuyou',
             type:'武将',/*商品类型（必填）*/
             currency:'coupons',/*结算货币（必填）*/
@@ -43,7 +43,7 @@ window.onlineShop = {
     ],
     skins:[/*皮肤栏目*/
         {
-            id:202207251933,/*商品id（唯一）*/
+            id:202208051526,/*商品id（唯一）*/
             name:'xushao',/*使用皮肤武将id（必填）*/
             type:'皮肤',/*商品类型（必填）*/
             currency:'coin',/*结算货币（必填）*/
@@ -55,7 +55,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251934,/*商品id（唯一）*/
+            id:202208051528,/*商品id（唯一）*/
             name:'zhaoxiang',/*使用皮肤武将id（必填）*/
             type:'皮肤',/*商品类型（必填）*/
             currency:'coin',/*结算货币（必填）*/
@@ -69,7 +69,7 @@ window.onlineShop = {
     ],
     props:[/*道具栏目*/
         {
-            id:202207251935,/*商品id（唯一）*/
+            id:202208051527,/*商品id（唯一）*/
             name:'xunbaoling',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coupons',/*结算货币（必填）*/
@@ -81,7 +81,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251936,/*商品id（唯一）*/
+            id:202208051529,/*商品id（唯一）*/
             name:'zhaomuling',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coupons',/*结算货币（必填）*/
@@ -93,7 +93,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251937,/*商品id（唯一）*/
+            id:202208051530,/*商品id（唯一）*/
             name:'manghe',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coin',/*结算货币（必填）*/
@@ -105,7 +105,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251938,/*商品id（唯一）*/
+            id:202208051531,/*商品id（唯一）*/
             name:'qifudeng',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coin',/*结算货币（必填）*/
@@ -117,7 +117,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251939,/*商品id（唯一）*/
+            id:202208051532,/*商品id（唯一）*/
             name:'baoxiang_jiangyin_epic',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coin',/*结算货币（必填）*/
@@ -141,7 +141,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251941,/*商品id（唯一）*/
+            id:202208051533,/*商品id（唯一）*/
             name:'card_secret',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coupons',/*结算货币（必填）*/
@@ -153,7 +153,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251942,/*商品id（唯一）*/
+            id:202208051534,/*商品id（唯一）*/
             name:'card_taskReset',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coupons',/*结算货币（必填）*/
@@ -165,7 +165,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251943,/*商品id（唯一）*/
+            id:202208051535,/*商品id（唯一）*/
             name:'card_skin_Optional',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coin',/*结算货币（必填）*/
@@ -177,7 +177,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251944,/*商品id（唯一）*/
+            id:202208051536,/*商品id（唯一）*/
             name:'card_SuperDouble',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coin',/*结算货币（必填）*/
@@ -189,7 +189,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251945,/*商品id（唯一）*/
+            id:202208051537,/*商品id（唯一）*/
             name:'card_reduce_escape',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'coin',/*结算货币（必填）*/
@@ -201,7 +201,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251946,/*商品id（唯一）*/
+            id:202208051538,/*商品id（唯一）*/
             name:'coupons',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'jiangfu',/*结算货币（必填）*/
@@ -213,7 +213,7 @@ window.onlineShop = {
 	    pack:[],/*打包*/
         },
         {
-            id:202207251947,/*商品id（唯一）*/
+            id:202208051539,/*商品id（唯一）*/
             name:'huanledou',/*道具id（必填）*/
             type:'道具',/*商品类型（必填）*/
             currency:'gongxun',/*结算货币（必填）*/
