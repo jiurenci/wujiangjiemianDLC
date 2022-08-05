@@ -251,7 +251,7 @@ window.onlineShop = {
 	    unique:false,/*识别码*/
             title:'七夕礼包',
 	    info:'元宝*999、刘备*1、孙尚香*1、寻宝令*10、招募令、10、烽火连天',
-	    pack:[{id:'coupons',num:999},{id:'xunbaoling',num:10},{id:'zhaomuling',num:10},{id:'liubei',random:1},{id:'mayunlu',random:1},{id:'xushao',num:'烽火连天.jpg',random:1}],/*打包*/
+	    pack:[{id:'coupons',num:999},{id:'xunbaoling',num:10},{id:'zhaomuling',num:10},{id:'liubei'},{id:'mayunlu'},{id:'xushao',num:'烽火连天.jpg'}],/*打包*/
 	    ext:'1',
         },
     ],
