@@ -103,18 +103,6 @@ window.onlineShop = {
             pack:[],
         },
         {
-            id:202208051531,
-            name:'qifudeng',
-            type:'道具',
-            currency:'coin',
-            price:23333,
-            num:5,
-            level:5,
-            vip:7,
-            unique:false,
-            pack:[],
-        },
-        {
             id:202208051532,
             name:'baoxiang_jiangyin_epic',
             type:'道具',
@@ -224,6 +212,21 @@ window.onlineShop = {
         },
     ],
     packs:[
-
+       {
+            id:202208051924,
+            name:'七夕礼包',
+            type:'批量',
+            currency:'coupons',
+            price:1,
+            num:1,
+            max:6,
+            level:5,
+            vip:0,
+            unique:false,
+            title:'七夕礼包',
+            info:'元宝*999、刘备*1、孙尚香*1、寻宝令*10、招募令、10、烽火连天',
+            pack:[{id:'coupons',num:999},{id:'xunbaoling',num:10},{id:'zhaomuling',num:10},{id:'liubei'},{id:'sunshangxiang'},{id:'xushao',num:'烽火连天.jpg'}],
+            ext:'1',
+        },
     ],
 };
