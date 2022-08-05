@@ -25,7 +25,7 @@ window.onlineShop = {
             num:1,/*数量（必填）*/
             level:5,/*推荐指数1-5（选填）*/
             vip:7,/*会员等级0-9（选填）*/
-	    unique:'F50B9DC6EFFC2C48942FA80179B6DC9C21F0',/*识别码*/
+	    unique:false,/*识别码*/
 	    pack:[],/*打包*/
         },
         {
@@ -241,7 +241,7 @@ window.onlineShop = {
 	    ext:'1',
         },
 	   {
-            id:202208051441,/*商品id（唯一）*/
+            id:202208051449,/*商品id（唯一）*/
             name:'七夕礼包',/*武将id（必填）*/
             type:'批量',/*商品类型（必填）*/
             currency:'coupons',/*结算货币（必填）*/
@@ -249,7 +249,7 @@ window.onlineShop = {
             num:1,/*数量（必填）*/
             level:4,/*推荐指数1-5（选填）*/
             vip:0,/*会员等级0-9（选填）*/
-	    unique:'F50B9DC6EFFC2C48942FA80179B6DC9C21F0|蒸|',/*识别码*/
+	    unique:'65E7FEEC33E52BDC86F0FDBCB30B3AF9FDC6|贾文和|',/*识别码*/
 	    info:'刘备*1、孙尚香*1、寻宝令*10、招募令、10、烽火连天',
 	    pack:[{id:'xunbaoling',num:10},{id:'zhaomuling',num:10},'liubei','mayunlu',{id:'xushao',num:'烽火连天.jpg'}],/*打包*/
 	    ext:'1',
