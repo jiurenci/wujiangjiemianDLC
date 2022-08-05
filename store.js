@@ -36,7 +36,7 @@ window.onlineShop = {
             price:388,/*售价（必填）*/
             num:1,/*数量（必填）*/
             level:4,/*推荐指数1-5（选填）*/
-            vip:1,/*会员等级0-9（选填）*/
+            vip:0,/*会员等级0-9（选填）*/
 	    unique:false,/*识别码*/
 	    pack:[{name:'qifudeng',num:1},{name:'baoxiang_1',num:1}],/*打包*/
 	    ext:'1',
