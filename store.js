@@ -236,6 +236,7 @@ window.onlineShop = {
             level:4,/*推荐指数1-5（选填）*/
             vip:0,/*会员等级0-9（选填）*/
 	    unique:false,/*识别码*/
+	    info:'祈福灯*1、木头宝箱*1',
 	    pack:[{name:'qifudeng',num:1},{name:'baoxiang_1',num:1}],/*打包*/
 	    ext:'1',
         },
