@@ -240,5 +240,19 @@ window.onlineShop = {
 	    pack:[{id:'coupons',num:999},{id:'xunbaoling',num:10},{id:'zhaomuling',num:10},'liubei','mayunlu',{id:'xushao',num:'烽火连天.jpg'}],/*打包*/
 	    ext:'1',
         },
+	    {
+            id:202208051828,/*商品id（唯一）*/
+            name:'测试礼包',/*武将id（必填）*/
+            type:'批量',/*商品类型（必填）*/
+            currency:'coupons',/*结算货币（必填）*/
+            price:1,/*售价（必填）*/
+            num:1,/*数量（必填）*/
+            level:5,/*推荐指数1-5（选填）*/
+            vip:0,/*会员等级0-9（选填）*/
+	    unique:false,/*识别码*/
+	    info:'元宝*999、刘备*1、孙尚香*1、寻宝令*10、招募令、10、烽火连天',
+	    pack:[{id:'coupons',num:999,random:0.2},{id:'xunbaoling',num:10,random:0.1},{id:'zhaomuling',num:10},{id:'liubei',random:0.5},'mayunlu',{id:'xushao',num:'烽火连天.jpg'}],/*打包*/
+	    ext:'1',
+        },
     ],
 };
