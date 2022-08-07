@@ -210,18 +210,6 @@ window.onlineShop = {
             unique:false,
             pack:[],
         },
-        {
-            id:202208080142,
-            name:'zhaomuling',
-            type:'道具',
-            currency:'xunbaoling',
-            price:999,
-            num:250,
-            level:5,
-            vip:0,
-            unique:false,
-            pack:[],
-        },
     ],
     packs:[],
 };
