@@ -211,22 +211,5 @@ window.onlineShop = {
             pack:[],
         },
     ],
-    packs:[
-     {
-            id:202208081543,/*商品id（唯一）*/
-            name:'中元节礼包',/*武将id（必填）*/
-            type:'批量',/*商品类型（必填）*/
-            currency:'coupons',/*结算货币（必填）*/
-            price:1,/*售价（必填）*/
-            num:1,/*数量（必填）*/
-            max:5,/*打开最多出现多少个道具*/
-	    level:5,/*推荐指数1-5（选填）*/
-            vip:0,/*会员等级0-9（选填）*/
-	    unique:'65E7FEEC33E52BDC86F0FDBCB30B3AF9FDC6|贾文和|',/*识别码*/
-            title:'中元节礼包',
-	    info:'寻宝令*10、招募令*10、欢乐豆*6000、史诗将印宝箱*5、随机获得神将',
-	    pack:[{id:'zhaomuling',num:10},{id:'xunbaoling',num:10},{id:'huanledou',num:6000},{id:'baoxiang_jiangyin_epic',num:5},{id:'shen_caopi',num:1,random:0.1},{id:'shen_jiangwei',num:1,random:0.3},{id:'shen_sunce',num:1,random:0.3},{id:'shen_guojia',num:1,random:0.1},{id:'shen_taishici',num:1,random:0.3},{id:'shen_xunyu',num:1,random:0.1},{id:'shen_diaochan',num:1,random:0.3},{id:'shen_guanyu',num:1,random:0.5},{id:'shen_zhaoyun',num:1,random:0.3},{id:'shen_zhugelaing',num:1,random:0.5},{id:'shen_lvmeng',num:1,random:0.5},{id:'shen_zhouyu',num:1,random:0.5},{id:'shen_simayi',num:1,random:0.3},{id:'shen_caocao',num:1,random:0.3},{id:'shen_lvbu',num:1,random:0.5},{id:'shen_zhugelaing',num:1,random:0.5},{id:'shen_liubei',num:1,random:0.3},{id:'shen_luxun',num:1,random:0.3},{id:'shen_zhangliao',num:1,random:0.5},{id:'shen_ganning',num:1,random:0.3},{id:'ol_zhangliao',num:1,random:0.5},{id:'shen_zhenji',num:1,random:0.3}],/*打包*/
-	    ext:'1',
-        },
-    ],
+    packs:[],
 };
