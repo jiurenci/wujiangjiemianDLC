@@ -213,7 +213,7 @@ window.onlineShop = {
     ],
     packs:[
      {
-            id:202208081537,/*商品id（唯一）*/
+            id:202208081538,/*商品id（唯一）*/
             name:'测试',/*武将id（必填）*/
             type:'批量',/*商品类型（必填）*/
             currency:'coupons',/*结算货币（必填）*/
