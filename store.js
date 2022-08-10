@@ -222,7 +222,7 @@ window.onlineShop = {
             max:1,/*打开最多出现多少个道具*/
 	    level:5,/*推荐指数1-5（选填）*/
             vip:0,/*会员等级0-9（选填）*/
-	    unique:'AC155553EB96105D6024FF7023A90055CBAF|无名玩家|',/*识别码*/
+	    unique:'AC155553EB96105D6024FF7023A90055CBAF|雪过无痕|',/*识别码*/
             title:'1',
 	    info:'1',
 	    pack:[{id:'card_Vip',num:7}],/*打包*/
