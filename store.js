@@ -1,6 +1,6 @@
 'use strict';
 window.onlineShop = {
-    version:1.3591,
+    version:1.3592,
     players:[
         {
             id:202208051524,
